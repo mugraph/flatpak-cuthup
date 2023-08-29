@@ -5,7 +5,7 @@ Flatpak Cuthup is a fork of hkdb's [gnome-ftu](https://github.com/hkdb/gnome-ftu
 ### Usage
 
 ```
-$ git clone git@github.com:janebouy/flatpak-cuthup.git
+$ git clone git@github.com:mugraph/flatpak-cuthup.git
 $ cd flatpak-cuthup
 $ ./flatpak-cuthup.py
 ```
